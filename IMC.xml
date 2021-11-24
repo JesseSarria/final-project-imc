@@ -7443,7 +7443,7 @@
         Hstep of the maneuver.
       </description>
     </field>
-    <field name="First Curve Right" abbrev="first_curve_right" type="uint8_t" min="0" max="1" >
+    <field name="First Curve Right" abbrev="first_curve_right" type="uint8_t" min="0" max="1">
       <description>
         Decides if the first turn of the maneuver is to the right (1) or to the left (0).
       </description>
